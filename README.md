@@ -15,6 +15,10 @@ This Software is Build for learning JAVA OOP Concept.
 
 # ScreenShots
 
+**Home Page**
+
+![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/main/Project%20Pictures/Capture.JPG?raw=true)
+
 
 
 
