@@ -17,32 +17,32 @@ This Software is Build for learning JAVA OOP Concept.
 
 **Screen Before Order**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/without_order.PNG?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/without_order.PNG?raw=true)
 
 **Screen After Pressing Add Button**
 **Sub categories of burger items**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/burger_items.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/burger_items.jpeg?raw=true)
 
 **Sub categories of Juice items**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/juice_item.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/juice_item.jpeg?raw=true)
 
 **Sub categories of Others items**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/others_items.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/others_items.jpeg?raw=true)
 
 **Cart List**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/cart_list.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/cart_list.jpeg?raw=true)
 
 **confirmation message after pressing Order Button**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/dev-uchchwas/screenshots/confirmation.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/confirmation.jpeg?raw=true)
 
 **Finally show the total bill**
 
-![alt text](https://github.com/uchchwas1/OnlineMobileshop/blob/screenshots/Total_Bill.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/screenshots/Total_Bill.jpeg?raw=true)
 
 
 
