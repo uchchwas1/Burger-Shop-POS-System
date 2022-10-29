@@ -42,7 +42,7 @@ This Software is Build for learning JAVA OOP Concept.
 
 **Finally show the total bill**
 
-![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/screenshots/Total_Bill.jpeg?raw=true)
+![alt text](https://github.com/uchchwas1/Burger-Shop-POS-System/blob/dev-uchchwas/screenshots/Total_Bill.jpeg?raw=true)
 
 
 
